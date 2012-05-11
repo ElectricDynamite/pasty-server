@@ -1,4 +1,4 @@
-[Pasty Logo](https://pastyapp.org/images/Pasty_512x512.png)
+![Pasty Logo](https://pastyapp.org/images/Pasty_512x512.png)
 
 Pasty Server
 ============
