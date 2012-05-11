@@ -1,4 +1,6 @@
-pasty-server
+[Pasty Logo](https://pastyapp.org/images/Pasty_512x512.png)
+
+Pasty Server
 ============
 
 Pasty REST API Server
